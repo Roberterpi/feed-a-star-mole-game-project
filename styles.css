@@ -2,7 +2,7 @@
   box-sizing: border-box;
 }
 body {
-  cursor: url(./cursor.png), default;
+  cursor: url(img/cursor.png), default;
   background-color: #c0c86d;
   display: flex;
   justify-content: center;
@@ -14,7 +14,7 @@ body {
   width: 100vw;
 }
 .backg {
-  background-image: url(./background.png);
+  background-image: url(img/background.png);
   background-repeat: no-repeat;
   width: 1920px;
   height: 1080px;
@@ -41,7 +41,7 @@ body {
   right: 30px;
 }
 .hungry {
-  cursor: url(./cursor-worm.png), pointer;
+  cursor: url(img/cursor-worm.png), pointer;
 }
 .gone {
   display: none;
