@@ -12,7 +12,7 @@ body {
   margin: 0;
   height: 100vh;
 }
-.backg {
+.bg {
   background-image: url(img/background.png);
   background-repeat: no-repeat;
   width: 1920px;
@@ -41,6 +41,7 @@ body {
 }
 .hungry {
   cursor: url(img/cursor-worm.png), pointer;
+  outline: none;
 }
 .gone {
   display: none;
